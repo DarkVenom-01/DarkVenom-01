@@ -13,12 +13,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/divyanshu shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyanshu shukla" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/divyanshu shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="divyanshu shukla" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/divyanshu-shukla-49565b257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyanshu shukla" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23485994/divyanshu-shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="divyanshu shukla" height="30" width="40" /></a>
 <a href="https://instagram.com/divyanshu_shukla_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divyanshu_shukla_01" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dark venom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dark venom" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/dark_venom_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dark_venom_01" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/divyanshu shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="divyanshu shukla" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@dark_venom01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dark venom" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/dark_venom_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dark_venom_01" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/divyanshu2003sh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="divyanshu shukla" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/divyanshu_shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="divyanshu_shukla" height="30" width="40" /></a>
 </p>
 
